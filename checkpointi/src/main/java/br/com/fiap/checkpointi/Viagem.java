@@ -6,4 +6,3 @@ public class Viagem {
 	String destino;
 	String duracao;
 	}
-
